@@ -10,3 +10,15 @@ function multiply() {
 function divide() {
 1 / 1
 }
+function add(a, b) {
+700 + 47
+}
+function subtract(a, b) {
+1 - 1
+}
+function multiply(a, b) {
+1 * 1
+}
+function divide(a, b) {
+1 / 1
+}
