@@ -11,8 +11,9 @@ function divide() {
 1 / 1
 }
 
-function increment(n) {
 var n = 5
+
+function increment(n) {
 
 }
 function decrement(n) {
