@@ -13,7 +13,7 @@ function divide() {
 
 function increment(n) {
 var n = 5
-return (var n += 58)
+
 }
 function decrement(n) {
 
