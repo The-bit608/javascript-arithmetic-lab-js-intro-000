@@ -1,5 +1,5 @@
 function add() {
-1 + 1
+700 + 47
 }
 function subtract() {
 1 - 1
